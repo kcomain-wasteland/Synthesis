@@ -1,6 +1,5 @@
 #!/usr/bin/env sh
-# cock
-if: github.event_name != 'pull_request'
+
 #
 # Copyright 2015 the original author or authors.
 #
